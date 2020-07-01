@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312048363710-i8g0muvnb3406evgrimqfdbdsko00pi0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312048363710-i8g0muvnb3406evgrimqfdbdsko00pi0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6UFLffsbPDSnODh1HCUYXN4JTlbqFmio</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312048363710</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.techmaster.Messager</string>
+	<key>PROJECT_ID</key>
+	<string>messge-757bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messge-757bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312048363710:ios:6326feb7b2802de55b96ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://messge-757bc.firebaseio.com</string>
+</dict>
+</plist>
